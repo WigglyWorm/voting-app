@@ -2,9 +2,7 @@
     position: relative;
     min-height: 100%;
 }
-body {
-    margin: 0 0 150px;
-}
+
 footer {
     background: silver;
     position: absolute;
@@ -14,6 +12,7 @@ footer {
     height: 150px;
 }
  body {
+     margin: 0 0 150px;
      background-image: url('http://www.thinknpc.org/wp-content/uploads/2012/02/fotolia_hands.jpg');
      background-repeat: no-repeat;
      background-position: center;
